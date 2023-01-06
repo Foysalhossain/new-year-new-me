@@ -44,3 +44,38 @@ header {
     border-radius: 5px;
     border: none;
 }
+
+/* failure section style */
+.failure-section {
+    width: 80%;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.failure-details h2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.failure-details p {
+    font-size: 16px;
+    color: #444343;
+    margin: 20px 0;
+    line-height: 26px;
+}
+
+.target-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.target-section ul li {
+    line-height: 2;
+}
+
+.target-section ul li i {
+    color: #16D887;
+}
