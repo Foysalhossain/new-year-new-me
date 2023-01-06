@@ -19,6 +19,7 @@ header {
     text-align: right;
     display: flex;
     align-items: center;
+    justify-content: flex-end;
 }
 
 .banner-area h1 {
@@ -30,4 +31,16 @@ header {
 .banner-area p {
     font-weight: 400;
     font-size: 16px;
+    margin: 30px 0;
+    color: #FFFFFF;
+    line-height: 26px;
+}
+
+.btn-primary {
+    padding: 15px 30px;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
 }
