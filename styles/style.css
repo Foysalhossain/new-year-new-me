@@ -141,3 +141,79 @@ header {
     margin-left: 65px;
     margin-top: 20px;
 }
+
+/* good-plans style */
+.good-plans {
+    width: 70%;
+    margin: auto;
+}
+
+.good-plan-description {
+    text-align: center;
+}
+
+.good-plan-description h2 {
+    font-size: 40px;
+}
+
+.good-plan-description p {
+    color: #444343;
+    margin: 20px 25%;
+}
+
+.plan-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+}
+
+.box-1 {
+    margin: 0 10px;
+    padding: 40px 20px;
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+.box-1 h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 25px 0;
+}
+
+.box-1 p {
+    font-size: 16px;
+    color: #707070;
+}
+
+.box-2 {
+    margin: 0 10px;
+    padding: 40px 20px;
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+.box-2 h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 25px 0;
+}
+
+.box-2 p {
+    font-size: 16px;
+    color: #707070;
+}
+
+.box-3 {
+    margin: 0 10px;
+    padding: 40px 20px;
+    background-color: #FFF4D6;
+}
+
+.box-3 h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 25px 0;
+}
+
+.box-3 p {
+    font-size: 16px;
+    color: #707070;
+}
